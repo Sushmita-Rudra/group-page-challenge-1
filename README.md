@@ -15,5 +15,4 @@ This page is all about the climatic conditions in Missouri state.
 ![Weather in Missouri](http://climate.missouri.edu/images/2017febe.gif)
 
 ## Reference Links:
-* [Weather report](http://climate.missouri.edu/climate.php)
-* [Image](https://www.google.com)
+* [Weather report and image source](http://climate.missouri.edu/climate.php)

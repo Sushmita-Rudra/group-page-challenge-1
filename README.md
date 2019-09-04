@@ -9,3 +9,5 @@
 ## Description:
 This page is all about the climatic conditions in Missouri state.
 
+* Missouri has continental type of climate. 
+* Missouri generally has a variety of seasonal  with cool winters     and long, hot summers. 

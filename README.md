@@ -3,6 +3,7 @@
 
 ## Group Members:
 1. Sushmita Rudra
+   - Click here for my Github profile link: [Profile link](https://github.com/Sushmita-Rudra/)
 1. Manisha Mengani
    - click here for my Github profile link: [my profile link](https://github.com/Manisha-Mengani)
 1. Gangadhar Yerramsetti

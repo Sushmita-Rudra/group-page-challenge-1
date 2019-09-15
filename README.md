@@ -6,6 +6,7 @@
 1. Manisha Mengani
    - click here for my Github profile link: [my profile link](https://github.com/Manisha-Mengani)
 1. Gangadhar Yerramsetti
+   - GitHub Profile link: [profile link](https://github.com/gangadhary574)
 
 ## Description:
 This page is all about the climatic conditions in Missouri state.
